@@ -1,2 +1,2 @@
 # Resume
-Please note this is a resume template, not accomplish resume.
+Please note this is a resume template, not accomplished resume.
